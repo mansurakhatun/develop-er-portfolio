@@ -53,6 +53,7 @@ section {
 .half-width img {
     width: 75%;
     padding-right: 5%;
+    margin-top: 20px;
 }
 
 .top-banner {
